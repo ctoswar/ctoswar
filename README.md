@@ -42,12 +42,12 @@ I'm a passionate freelance developer based in the Philippines 🇵🇭, crafting
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duncan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctoswar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=duncan&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ctoswar&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 - 🔭 Working on exciting freelance projects
 - 📚 Continuously learning new technologies
@@ -69,7 +69,7 @@ I'm a passionate freelance developer based in the Philippines 🇵🇭, crafting
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=duncan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ctoswar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 I'm always interested in discussing new opportunities and collaborating on exciting projects. Feel free to reach out!
